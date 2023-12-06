@@ -1,0 +1,14 @@
+# render a video from vmd
+
+
+1. load your trayectory file.
+2. set format for your video.
+3. go to Extensions/Visualization/Movie Maker
+4. set following options:
+- Renderer: POV-Ray/Tachion (best quality)
+- Movie settings: Trayectory
+- Format: Animated gif
+
+Others:
+Trayectory setp size: 1
+Movie duration (seconds): 15
